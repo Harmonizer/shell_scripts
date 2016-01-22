@@ -1,2 +1,1 @@
-# shellscripts
-Just a collection of scripts i made over time
+#Collection of shell scripts and other stuff i've made over the years.
