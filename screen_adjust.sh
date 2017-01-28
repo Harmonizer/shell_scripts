@@ -53,4 +53,5 @@ restartAwesomeWM () {
 adjustConnectedScreen HDMI1
 restartAwesomeWM
 
+
 exit 0
