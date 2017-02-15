@@ -1,8 +1,9 @@
 #!/bin/bash -p
 
 # Checks for given domain name if target IP address matches the given IP address.
-# When the given IP addresses no longer match, user will be notified. Script could be
-# useful if you wants to determine if a recently modified A record is in effect. 
+# When the given IP addresses are no longer equal, user will be notified. Script 
+# could be useful if you want to determine if a recently modified A record is in 
+# effect. 
 
 # Write secure shell scripts
 set -euf -o pipefail

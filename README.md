@@ -11,4 +11,4 @@ mrktplaats.webscraper.sh --> Basic webscraper, needed some way to check out if t
 
 logout.sh --> Immediate logout of any session you're currently signed into. (I've made this script a long time ago, I used to experiment with different and more exotic desktop environment components like widget toolkits and tiling window managers a lot back then. Script was useful to escape my broken DE sessions.
 
-record_check.sh --> Checks for given domain name if target IP address matches the given IP address. When the given IP addresses no longer match, user will be notified. Script could be useful if you wants to determine if a recently modified A record is in effect.
+record_check.sh --> Checks for given domain name if target IP address matches the given IP address. When the given IP addresses are no longer equal, user will be notified. Script could be useful if you want to determine if a recently modified A record is in effect.
